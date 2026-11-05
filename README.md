@@ -216,4 +216,4 @@ Kerbal Space Program is offered as a full free version, with all features and up
 Elevate your gaming experience and embark on your cosmic journey by downloading Kerbal Space Program today!
 
 ---
-**Last updated:** 2026-11-05 03:01:51 UTC
+**Last updated:** 2026-11-05 11:46:49 UTC
